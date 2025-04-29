@@ -3,3 +3,5 @@ This is a few programs that will run on a remote host and one in the cloud to co
 
 I just added this to see if it syncs correctly.
 
+Second script is to run from a laptop at some random location as server instead of the pi.
+
